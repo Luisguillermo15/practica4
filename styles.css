@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(187, 46, 192);
+    color: rgb(0, 4, 7);
+}
+
+h1{
+    font-size: 65px;
+}
+
+p{
+
+.parrafo-especial{
+    font-size: 15px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(0, 0, 0);
+}
+
+}
+
+.destacado {
+    color: rgb(0, 0, 0);
+}
+
+
+.contenedor p{
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+}
